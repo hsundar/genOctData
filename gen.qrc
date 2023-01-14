@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/res" >
+        <file>images/3d.png</file>
+        <file>images/cube.png</file>
+        <file>images/draw-cone.png</file>
+        <file>images/draw-cube.png</file>
+        <file>images/draw-cylinder.png</file>
+        <file>images/draw-sphere.png</file>
+        <file>images/load.png</file>
+        <file>images/save.png</file>
+        <file>images/sphere.png</file>
+    </qresource>
+</RCC>
